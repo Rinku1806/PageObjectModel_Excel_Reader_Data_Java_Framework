@@ -2,7 +2,7 @@
 <!DOCTYPE project [
 ]>
 
-<project name="PageObjectModel_Javab" default="usage" basedir=".">  
+<project name="PageObjectModel_Excel_Reader_Data_Java_Framework" default="usage" basedir=".">  
 
 <!-- ========== Initialize Properties =================================== -->
     <property environment="env"/>
